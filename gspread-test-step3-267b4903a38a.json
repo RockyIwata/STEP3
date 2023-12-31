@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gspread-test-step3",
+  "private_key_id": "267b4903a38a0583816dbd39b0e8d219bb503b7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0rKji8ormxKSj\n0kCu86IFH3bEP1Qs9dn0olIS9jn//kGEYu4qAJnvuVdDxxGXNM5L5WQyKcgzOSZx\nIz8kcLfxkQoXyXB/Y4DE/0IW+M5zSyZN4UoLBfvNRh3AICb01QtnTNirtrhvvaVZ\nXKI3hlwocSOXyldcKY1J3XQoMuOUd1EMUOE9GVG9DM/Og2M4sV2NVjVi15fMQC+f\nXCp6bfc7bF4AG1GZ2IXTfAmmAomGr4Q6SGkE+sNC3eT1stWhs6hHwGYgIPeUCdRM\n5dNBSukwSv9S6zq2Zt8HmaxCoAWeGHIRwOgNrvv6hmTDd1wS9BcL+pNMgLaPxFCn\nqlrZwgDNAgMBAAECggEAKzNvzJhPIz/Y2D0hb1PdJVlxJhq4b2m33Hllo5gRpUbv\n9o5LQWrUZBBOr+utJpkfTOGEVEROVQUwznOtmPKE4TOblLV7e1JZC4G3lVOX1dSd\ny5h3gmxDWcGOwo5NklRQvjoPQvvVXQ6dN2FhfmJXrenjp1tgCS78VDGqISSN60U2\nsvonjQiWnlEId7GXCjMbdy0M85V+zzBl7T2iP/8g5WL7qXk8zbnHeSwfVxWYYNQV\n4PvlQ/KGhE5XP9cAwsjFJqttVWJDTupsGDZXUVMDYYgnsbEwwy3X8wGHFTsfybWS\nc76EiCBFxvO32IVHxPUsuRo2xSC7i/EOHFc11F+iZwKBgQD1XfXKIbpAJ+TqJRUi\nXIz6GOR7T5MzXJon+ZL5j+fcWVKO0mwqP2WwgV1GwtPgce2WVR/rBqZtmBEDnPkq\nkoXrYCUbWNsM0rV0BinjysgYHztuorSeogMU6Ffd3lBgSEzc5EP5xkcoe/yfCmuS\nnhJcIJOGcQWwUyTMxU23PWkVWwKBgQC8gQQ2cf41H8SZg5g1rEQN0I6TLRAw5lyr\nVANO3efrzz4NBU1b/WlICTWIt9vu9AcxPa5Ij0DYioOBGPn1ZL19yjdSP0uXPY5i\n9iGYtKQl1ewenyj0AzoF+zHcQ/H9ITwtzcPkR1fqgjbFMCDdRuVHxp9B/oF9oPW0\nj3DrAfoS9wKBgHlxQPcDjIC2fimZowU305rxeRzDPPMd8Tq53xHgNP0txJvl8B1U\n9YrP7I/aXC3plZNjnIGh7/usWTd1mSmGDfx6wMLxTrHhFGhRqKgTNMgjpTHUHBur\nymStvteUcinFfy2RWUel6JBUFavN54JQ9HtesEXJaOxlqoAjY5y/K2SjAoGATAyg\n7nY+4J/YaTa2CbFeI1SosKfViGTnrhdO3lqYXoJVvlsNQreR6gYNGwNSL60z2aHQ\n1mU0/CeltkelUGM8L6uNdhkjHfkvoK08EKeQMdOEVzZPB2Ll3dPh4cNntX/bD3+c\nMFS4G1w9TICGQb+AcNypE67h/xUZC6dzHtzFTzECgYAhlU2jkS7GcBIJrM/cKIe0\njKSrPx/BvtwUycHBFSvqQeeCsFvf+RYXe7+HgxkFQA4YsmPKET2OFIVT0QPDFIP5\n65GTefkK3lGu3x/AFVVX9STzRXFH2igE/zCBxjc2kGohaH3xdgoeVb28YDEHK9gY\nRy2BTk1LZ2mQhYHKhoYcYQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "collaborate-python-with-spread@gspread-test-step3.iam.gserviceaccount.com",
+  "client_id": "104262134829409357246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/collaborate-python-with-spread%40gspread-test-step3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
